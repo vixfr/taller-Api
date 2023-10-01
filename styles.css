@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:rgb(58, 134, 153);
+    display: grid;
+}
+
+#number{
+    width: 125px;
+}
+
+#container{
+    margin: 50px 100px;
+    place-self: center;
+}
+
+img{
+    scale: 1.5;
+}
